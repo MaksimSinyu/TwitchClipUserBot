@@ -27,6 +27,10 @@ To install the required dependencies, simply run the following command:
 ```
 pip install -r requirements.txt
 ```
+
+```
+dotnet restore
+```
 # Contributing
 Contributions are welcome! If you would like to contribute to GrishaBot, please create a pull request with your changes.
 
@@ -34,7 +38,7 @@ Contributions are welcome! If you would like to contribute to GrishaBot, please 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
 
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![GitHub](https://img.shields.io/badge/GitHub-%23323330.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaksimSinyu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?&style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/hardsuit/)
