@@ -1,0 +1,3 @@
+<PackageReference Include="TwitchLib.Client" Version="2.2.2" />
+<PackageReference Include="TwitchLib.Client.Extensions" Version="2.2.2" />
+<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
