@@ -24,10 +24,11 @@ Make sure to replace "YOUR OAUTH TOKEN", "YOUR CLIENT ID", "YOUR BROADCASTER ID"
 
 # Installation
 To install the required dependencies, simply run the following command:
+## Python
 ```
 pip install -r requirements.txt
 ```
-
+## CSharp
 ```
 dotnet restore
 ```
