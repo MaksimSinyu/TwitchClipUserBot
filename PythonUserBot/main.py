@@ -12,7 +12,7 @@ bot = commands.Bot(
 
 def get_clip_id():
     params = {
-        'broadcaster_id': '77602319',
+        'broadcaster_id': 'YOUR_BROADCASTER_ID',
         'has_delay': 'false',
         'duration': 60
     }
