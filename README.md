@@ -20,7 +20,7 @@ If the request to create the clip is unsuccessful, the bot logs an error message
 To run the code, you need to have the necessary libraries installed and fill in the authentication information. 
 
 # Make Sure
-Make sure to replace "YOUR OAUTH TOKEN", "YOUR CLIENT ID", "YOUR BROADCASTER ID", "YOUR TWITCH USERNAME", "INITIAL_CHANNELS OR TWITCH_USERNAME_STREAMER" with your own values. This will ensure that other users cannot steal your authentication credentials.
+Make sure to replace "YOUR OAUTH TOKEN", "YOUR CLIENT ID", "YOUR BROADCASTER ID", "YOUR TWITCH USERNAME", "INITIAL_CHANNELS OR TWITCH_USERNAME_STREAMER" with your own values. 
 
 # Installation
 To install the required dependencies, simply run the following command:
